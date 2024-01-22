@@ -1,0 +1,10 @@
+* cl-yesql
+
+Common Lisp library for using SQL
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/ruricolist/cl-yesql.git |
+| commit  | 11025f8                                        |
+| systems | cl-yesql                                       |
+|---------+------------------------------------------------|
+
